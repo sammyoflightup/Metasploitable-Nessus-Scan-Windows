@@ -69,9 +69,6 @@ This repository contains the documentation and results of a vulnerability scan p
 ## Screenshots
 Screenshots of the scan configuration, results, and network setup are stored in the [Screenshots Directory](https://github.com/sammyoflightup/Metasploitable-Nessus-Scan-Windows/tree/main/Screenshots).
 
-### Example Screenshot
-![Nessus Scan Results](https://github.com/sammyoflightup/Metasploitable-Nessus-Scan-Windows/blob/main/Screenshots/scan_results.png)
-
 ## Learnings and Reflections
 
 ### Key Takeaways:
