@@ -54,7 +54,10 @@ This repository contains the documentation and results of a vulnerability scan p
    - Save the scan configuration and click "Launch".
    - Wait for the scan to complete.
 
+# Vulnerability Assessment Summary
+
 ## Summary of Identified Vulnerabilities
+
 ### Results:
 - **Critical Vulnerabilities:** 
   - Vulnerabilities such as outdated VSFTPD and OpenSSH services, which could lead to remote code execution.
@@ -64,10 +67,15 @@ This repository contains the documentation and results of a vulnerability scan p
   - Information disclosure and weaker encryption protocols.
 
 ## Screenshots
-Screenshots of the scan configuration, results, and network setup are stored in the [screenshots](./screenshots/) folder.
+Screenshots of the scan configuration, results, and network setup are stored in the [Screenshots Directory](https://github.com/sammyoflightup/Metasploitable-Nessus-Scan-Windows/tree/main/Screenshots).
+
+### Example Screenshot
+![Nessus Scan Results](https://github.com/sammyoflightup/Metasploitable-Nessus-Scan-Windows/blob/main/Screenshots/scan_results.png)
 
 ## Learnings and Reflections
+
 ### Key Takeaways:
 - **Understanding Nessus:** This exercise provided hands-on experience with Nessus, including installation, configuration, and running vulnerability scans.
 - **Network Configuration:** Setting up a bridged network in VirtualBox was essential for ensuring that the Nessus scanner could reach the Metasploitable 2 target.
 - **Vulnerability Analysis:** Reviewing the scan results offered insights into common vulnerabilities found in legacy systems and the importance of regular security assessments.
+
